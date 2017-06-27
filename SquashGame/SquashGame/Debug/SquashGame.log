@@ -1,0 +1,17 @@
+﻿  SquashGame.cpp
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(211): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(212): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(219): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(220): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(227): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marven\desktop\openglcourse\squashgame\squashgame\squashgame.cpp(228): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SquashGame.vcxproj -> C:\Users\marven\Desktop\OpenGLCourse\SquashGame\Debug\SquashGame.exe
